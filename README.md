@@ -1,0 +1,2 @@
+# Dog-breed-Classifier-Using-CNN-and-ResNet
+Built a Convolutional Neural Network that can classify the user-supplied image, the machine learning algorithm will provide an estimate of dog breed of the image that is most resembling. • Used Keras and TensorFlow at the back end and worked on Google Colab for training the model. • Used pre-trained ResNet and compared it with my output accuracy to determine a better neural network that can work efficiently.
